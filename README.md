@@ -12,6 +12,10 @@ Welcome to **StreamX**, a sleek and modern landing page designed for a streaming
 
 This is a **landing page only for demo purposes**. It does not include functional streaming services or backend support. The goal of this project is to showcase UI/UX design and frontend development skills.
 
+## 🌐 Live Link
+
+Check out the live demo here: [StreamX Live](https://stream-x-henna.vercel.app/)
+
 ## 📂 Project Structure
 
 ```plaintext
@@ -42,7 +46,7 @@ StreamX/
    ```
 4. Start the development server:
    ```sh
-   npm run dev
+   npm start
    ```
 
 ## 🎨 Features
@@ -54,8 +58,8 @@ StreamX/
 
 ## 📸 Screenshots
 Landing Page- Hero Section
-    ![Landing Page Demo](/Screenshot Demo/Landing_Page.png)
-
+    ![Landing Page Demo](./Screenshot%20Demo/Landing_Page.png)
+    
 ## 📜 License
 
 This project is open-source and available for educational and demo purposes.
