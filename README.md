@@ -1,12 +1,66 @@
-# React + Vite
+# StreamX - Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **StreamX**, a sleek and modern landing page designed for a streaming platform concept. This project is built using **React**, **Tailwind CSS**, and **Framer Motion** to provide a visually appealing and smooth user experience.
 
-Currently, two official plugins are available:
+## 🚀 Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React** - Component-based UI development
+- **Tailwind CSS** - Utility-first styling for a responsive and clean design
+- **Framer Motion** - Animations and transitions for an engaging user experience
 
-## Expanding the ESLint configuration
+## ⚠️ Disclaimer
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This is a **landing page only for demo purposes**. It does not include functional streaming services or backend support. The goal of this project is to showcase UI/UX design and frontend development skills.
+
+## 📂 Project Structure
+
+```plaintext
+StreamX/
+│-- src/
+│   │-- components/     # Reusable components
+│   │-- assets/         # Images and static files
+│   │-- pages/          # Page structure
+│   │-- App.js          # Main application file
+│-- public/
+│-- package.json
+│-- README.md
+```
+
+## 🛠️ Installation & Usage
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/streamx-landing.git
+   ```
+2. Navigate to the project folder:
+   ```sh
+   cd streamx-landing
+   ```
+3. Install dependencies:
+   ```sh
+   npm install
+   ```
+4. Start the development server:
+   ```sh
+   npm run dev
+   ```
+
+## 🎨 Features
+
+- Responsive design for all devices
+- Smooth animations with **Framer Motion**
+- Modern UI with **Tailwind CSS**
+- Fast and optimized performance with **React**
+
+## 📸 Screenshots
+Landing Page- Hero Section
+    ![Landing Page Demo](/Screenshot Demo/Landing_Page.png)
+
+## 📜 License
+
+This project is open-source and available for educational and demo purposes.
+
+---
+
+Feel free to modify and improve this project as needed! 🚀
+
